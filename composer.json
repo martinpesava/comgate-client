@@ -1,7 +1,7 @@
 {
   "name": "renat-magadiev/comgate-client",
   "description": "Comgate client wrapper",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
